@@ -30,7 +30,7 @@
 </script>
 
 <div
-	class="loading-bar flex h-10 bg-slate-500 w-full"
+	class="loading-bar flex h-10 bg-slate-500 w-[60%]"
 	on:mouseenter={() => setIsProgressBarHovered(true)}
 	on:mouseleave={() => setIsProgressBarHovered(false)}
 >

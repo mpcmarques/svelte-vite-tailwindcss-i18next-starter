@@ -5,18 +5,12 @@
 	};
 </script>
 
-<button on:click={increment} class="counter my-4">
+<button
+	on:click={increment}
+	class="counter bg-slate-400  text-slate-200 my-4 shadow-md hover:bg-slate-300 rounded-md p-2"
+>
 	count is {count}
 </button>
 
 <style>
-	.counter {
-		border-radius: 10rem;
-		border: 2px solid black;
-		width: 200px;
-	}
-
-	.counter:hover {
-		box-shadow: 10px 5px 5px 5px black;
-	}
 </style>
