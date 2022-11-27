@@ -1,0 +1,23 @@
+{
+	"useTabs": true,
+	"tabWidth": 4,
+	"semi": true,
+	"trailingComma": "all",
+	"singleQuote": false,
+	"overrides": [
+		{
+			"files": "**/*.svx",
+			"options": { "parser": "markdown" }
+		},
+		{
+			"files": "**/*.ts",
+			"options": { "parser": "typescript" }
+		},
+		{
+			"files": "**/CHANGELOG.md",
+			"options": {
+				"requirePragma": true
+			}
+		}
+	]
+}

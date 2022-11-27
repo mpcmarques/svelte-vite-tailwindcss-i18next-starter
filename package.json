@@ -1,0 +1,36 @@
+{
+	"name": "@starting-point/swelte-vite-tailwind",
+	"private": true,
+	"version": "0.0.0",
+	"type": "module",
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"preview": "vite preview",
+		"check": "svelte-check --tsconfig ./tsconfig.json"
+	},
+	"devDependencies": {
+		"@sveltejs/vite-plugin-svelte": "^1.1.0",
+		"@tsconfig/svelte": "^3.0.0",
+		"@typescript-eslint/eslint-plugin": "^5.44.0",
+		"@typescript-eslint/parser": "^5.44.0",
+		"autoprefixer": "^10.4.13",
+		"eslint": ">=8.0.0",
+		"eslint-plugin-import": "^2.25.2",
+		"eslint-plugin-n": "^15.0.0",
+		"eslint-plugin-promise": "^6.0.0",
+		"i18next": "^22.0.6",
+		"postcss": "^8.4.19",
+		"prettier": "^2.8.0",
+		"prettier-plugin-svelte": "^2.8.1",
+		"svelte": "^3.52.0",
+		"svelte-check": "^2.9.2",
+		"svelte-i18next": "^1.2.2",
+		"svelte-icons": "^2.1.0",
+		"svelte-preprocess": "^4.10.7",
+		"tailwindcss": "^3.2.4",
+		"tslib": "^2.4.0",
+		"typescript": ">=4.4",
+		"vite": "^3.2.3"
+	}
+}
