@@ -2,7 +2,7 @@
 
 A starter template for a project using:
 
-* React as the components library
+* Svelte as the components library
 * TailwindCSS as the design library
 * i18next as the internationalization library
 
