@@ -1,11 +1,9 @@
-# Svelte + TS + Vite + Tailwind + i18next Starter Template
+# svelte-tailwindcss-i18next-starter
 
-This template should help get you started developing with Svelte and TypeScript in Vite.
+A starter template for a project using:
 
-## Need an official Svelte framework?
+* React as the components library
+* TailwindCSS as the design library
+* i18next as the internationalization library
 
-Check out [SvelteKit](https://github.com/sveltejs/kit#readme), which is also powered by Vite. Deploy anywhere with its serverless-first approach and adapt to various platforms, with out of the box support for TypeScript, SCSS, and Less, and easily-added support for mdsvex, GraphQL, PostCSS, Tailwind CSS, and more.
-
-## Technical considerations
-
-It already implements eslint and prettier for code conventions and to find bugs.
+Also they come with prettier and eslint configured.
