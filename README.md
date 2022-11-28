@@ -7,3 +7,7 @@ A starter template for a project using:
 * i18next as the internationalization library
 
 Also they come with prettier and eslint configured.
+
+## Extensões Recomendadas além das que estão em .vscode/extensions:
+
+1. prettier-eslint
