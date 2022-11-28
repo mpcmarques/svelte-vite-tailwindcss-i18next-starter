@@ -8,6 +8,8 @@ A starter template for a project using:
 
 Also they come with prettier and eslint configured.
 
-## Extensões Recomendadas além das que estão em .vscode/extensions:
+## Recommended extensions that aren't in .vscode/extensions:
 
-1. prettier-eslint
+1. prettier-eslint - fix and apply coding conventions
+
+We recommend the option format on save turned on in vscode.
